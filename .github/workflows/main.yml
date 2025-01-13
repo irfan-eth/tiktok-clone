@@ -38,3 +38,4 @@ name: Azure Static Web Apps CI/CD
               app_location: "./" # App source code path
               api_location: "" # Api source code path - leave empty if not using an API
               output_location: ".next" # Built app content path
+              skip_api_build: true
