@@ -1,1 +1,6 @@
-sanity
+node_modules
+    .next/cache
+    sanity/node_modules
+    sanity/.next
+    sanity/out
+    sanity/build
